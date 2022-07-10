@@ -44,7 +44,7 @@ function Banner() {
               color: "#61DAEC"
             }}
           >
-            KrypTracker
+            Crypto Tracker
           </Typography>
           <Typography
             variant="subtitle2"
